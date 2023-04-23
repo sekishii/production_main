@@ -1,0 +1,67 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.README.md.html
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.checkstyle
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Doc temp file ###
+~$*
+
+### Docker Volumes ###
+blcloud-tools/docker/docker_volume
+
+
+## Visual Studio ##
+##
+## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
+## è„ãLÇÊÇËî≤êà
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
